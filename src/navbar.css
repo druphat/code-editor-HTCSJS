@@ -1,0 +1,32 @@
+nav {
+    background-color: hsl(225, 6%, 13%);
+    padding: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  li {
+    display: inline;
+    margin-right: 20px; /* Increase the margin to add more space */
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
