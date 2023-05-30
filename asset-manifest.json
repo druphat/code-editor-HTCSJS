@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/druphat/code-editor-HTCSJS.git/static/css/main.e751c002.css",
-    "main.js": "/druphat/code-editor-HTCSJS.git/static/js/main.8be48a11.js",
-    "index.html": "/druphat/code-editor-HTCSJS.git/index.html",
-    "main.e751c002.css.map": "/druphat/code-editor-HTCSJS.git/static/css/main.e751c002.css.map",
-    "main.8be48a11.js.map": "/druphat/code-editor-HTCSJS.git/static/js/main.8be48a11.js.map"
+    "main.css": "/code-editor-HTCSJS/static/css/main.e751c002.css",
+    "main.js": "/code-editor-HTCSJS/static/js/main.8be48a11.js",
+    "index.html": "/code-editor-HTCSJS/index.html",
+    "main.e751c002.css.map": "/code-editor-HTCSJS/static/css/main.e751c002.css.map",
+    "main.8be48a11.js.map": "/code-editor-HTCSJS/static/js/main.8be48a11.js.map"
   },
   "entrypoints": [
     "static/css/main.e751c002.css",
